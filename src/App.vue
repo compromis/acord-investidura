@@ -1,7 +1,7 @@
 <template>
   <div class="accountable-gov">
     <div class="header">
-      <h2><img src="./assets/logo.png" alt="Un govern que compleix" /></h2>
+      <h2><img src="./assets/logo.png" alt="Seguiment de l'Acord d'Investidura" /></h2>
     </div>
     <language :language.sync="language" />
     <categories :categories="categories" />
@@ -63,7 +63,7 @@ export default {
 
     img {
       width: 100%;
-      max-width: 400px;
+      max-width: 800px;
     }
   }
 

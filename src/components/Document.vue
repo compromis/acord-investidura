@@ -14,8 +14,8 @@
           </div>
           <div v-if="point.status == 'PENDING'" class="status status-pending">
             <span class="glyphicon glyphicon-time"></span>
-            <span v-if="language == 'cas'">En proceso</span>
-            <span v-else>En procés</span>
+            <span v-if="language == 'cas'">Pendiente</span>
+            <span v-else>Pendent</span>
           </div>
         </li>
       </ul>
@@ -49,7 +49,7 @@ export default {
       border-bottom: 1px #E1E2E3 solid;
       padding: 15px 0;
       position: relative;
-      -webkit-transition: 0.2s ease-in;
+      transition: 0.2s ease-in;
     }
   }
 
