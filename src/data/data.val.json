@@ -1,0 +1,127 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "slug": "financament",
+      "name": "Finançament Autonòmic"
+    },
+    {
+      "id": 2,
+      "slug": "dependencia",
+      "name": "Sistema de Dependència"
+    },
+    {
+      "id": 3,
+      "slug": "inversions",
+      "name": "Inversions Justes"
+    },
+    {
+      "id": 4,
+      "slug": "deute",
+      "name": "Deute amb el Consorci València 2007"
+    },
+    {
+      "id": 5,
+      "slug": "agricultura",
+      "name": "Agricultura Valenciana"
+    },
+    {
+      "id": 6,
+      "slug": "hidriques",
+      "name": "Infraestructures hídriques"
+    },
+    {
+      "id": 7,
+      "slug": "medi-ambient",
+      "name": "Medi Ambiente i Transició Ecològica"
+    },
+    {
+      "id": 8,
+      "slug": "drets-socials",
+      "name": "Drets socials"
+    },
+    {
+      "id": 9,
+      "slug": "ap7",
+      "name": "Gratuïtat de l'AP-7"
+    }
+  ],
+
+  "document": [
+    {
+     "category": 1,
+     "text": "El Govern presentarà en els huit primers mesos de legislatura una nova proposta de sistema de finançament autonòmic, que garantisca un finançament just per als valencians i valencianes. Fins que això no arribe es compensarà a través dels Pressupostos Generals de l'Estat.",
+     "status": "PENDING"
+    },
+    {
+      "category": 2,
+      "text": "L'Estat complirà la Llei i aportarà de forma gradual el 50% del finançament del sistema d'atenció a la dependència i activarà els fons de garantia assistencial i cohesió sanitària.",
+      "status": "PENDING"
+     },
+     {
+      "category": 3,
+      "text": "El Govern establirà una agenda valenciana de'inversions en els Pressupostos Generals de l'Estat, augmentant el pressupost en infraestructures d'acord al nostre pes poblacional.",
+      "status": "PENDING"
+     },
+     {
+      "category": 4,
+      "text": "El Govern assumirà en els pròximos Pressupostos Generals de l'Estat el deute del Consorcio València 2007 que ascendeix a 430 milions d'euros.",
+      "status": "PENDING"
+     },
+     {
+      "category": 5,
+      "text": "L'Estat defensarà els productes agroalimentaris valencians enfront dels acords de lliure comerç, exigint que la importació de productes de països tercers complisca íntegrament amb la normativa comunitària.",
+      "status": "PENDING"
+     },
+     {
+      "category": 5,
+      "text": "El Govern es compromet a reconèixer la singularitat agrària mediterrània en la nova PAC (Política Agrària Comú).",
+      "status": "PENDING"
+     },
+     {
+      "category": 5,
+      "text": "L'Estat també inclourà en els Pressupostos Generals de l'Estat el finançament en recerca sobre la Xylella i altres plagues i compensarà les agricultores i agricultors afectats.",
+      "status": "PENDING"
+     },
+     {
+      "category": 6,
+      "text": "El Govern protegirà el Parc Natural de l'Albufera finançant la millora del col·lector oest que dóna accés al llac.",
+      "status": "PENDING"
+     },
+     {
+      "category": 6,
+      "text": "Es garantirà el subministrament hídric adequat a les conques mediterrànies, i es revisarà el règim tarifari atenent a principis de sostenibilitat i transparència.",
+      "status": "PENDING"
+     },
+     {
+      "category": 6,
+      "text": "S'incorporaran fons d'energia renovable a les infraestructures de dessalació, depuració i reutilització d'aigua.",
+      "status": "PENDING"
+     },
+     {
+      "category": 7,
+      "text": "El Govern ha de garantir el compliment de tota la normativa ambiental respecte a l'ampliació del Port de València perquè qualsevol actuació es produïsca amb totes les garanties.",
+      "status": "PENDING"
+     },
+     {
+      "category": 7,
+      "text": "S'ampliaran els recursos dels Plans d'Impuls al Medi Ambient en matèria de residus i espais naturals per finançar nous projectes d'estudi d'eficiència energètica i restauració ambiental en espais com el clausurat abocador de la Murada a Oriola.",
+      "status": "PENDING"
+     },
+     {
+      "category": 8,
+      "text": "El Govern es compromet que l'Estat ratifique la Carta Social Europea per ampliar els drets socials.",
+      "status": "PENDING"
+     },
+     {
+      "category": 9,
+      "text": "L'Estat alliberarà el tram de l'AP-7 entre Tarragona i Alacant.",
+      "status": "DONE"
+     },
+     {
+      "category": 9,
+      "text": "Es remodelarà els accessos existents entre l'AP-7 i altres vies i es construiran nous per donar accés a les ciutats, adaptant la capacitat estructural del volum de trànsit.",
+      "status": "PENDING"
+     }
+  ]
+}
