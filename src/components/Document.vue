@@ -108,6 +108,16 @@ export default {
   }
 
   @media screen and (max-width: 768px) {
+    .point {
+      flex-direction: column;
+    }
+
+    .status {
+      margin-left: 0;
+      width: 100%;
+      margin-top: 2rem;
+    }
+  
     .category-header {
       flex-direction: column;
 
