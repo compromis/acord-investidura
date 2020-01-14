@@ -4,8 +4,6 @@
       <h2><img src="./assets/logo.png" alt="Un govern que compleix" /></h2>
     </div>
     <language :language.sync="language" />
-    <introduction :language="language" />
-    <hr />
     <categories :categories="categories" />
     <hr />
     <document :categories="categories" :document="document" :language="language" />
@@ -16,7 +14,6 @@
 import Categories from './components/Categories.vue'
 import Document from './components/Document.vue'
 import Language from './components/Language.vue'
-import Introduction from './components/Introduction.vue'
 
 import dataVal from './data/data.val.json'
 import dataCas from './data/data.cas.json'
@@ -27,8 +24,7 @@ export default {
   components: {
     Categories,
     Document,
-    Language,
-    Introduction
+    Language
   },
 
   data() {

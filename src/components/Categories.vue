@@ -41,7 +41,7 @@ export default {
       height: 15rem;
       padding: 2rem;
       font-family: 'Compromis', sans-serif;
-      font-size: 2rem;
+      font-size: 1.75rem;
       color: #FFF;
       border-width: 4px;
       border-style: solid;
@@ -69,20 +69,20 @@ export default {
         color: $dependencia;
     }
   }
-  .category-sanitat {
-    background: $sanitat;
-    border-color: $sanitat;
+  .category-inversions {
+    background: $inversions;
+    border-color: $inversions;
 
     &:hover {
-        color: $sanitat;
+        color: $inversions;
     }
   }
-  .category-economia {
-    background: $economia;
-    border-color: $economia;
+  .category-deute {
+    background: $deute;
+    border-color: $deute;
 
     &:hover {
-        color: $economia;
+        color: $deute;
     }
   }
   .category-agricultura {
@@ -93,20 +93,12 @@ export default {
         color: $agricultura;
     }
   }
-  .category-transparencia {
-    background: $transparencia;
-    border-color: $transparencia;
+  .category-hidriques {
+    background: $hidriques;
+    border-color: $hidriques;
 
     &:hover {
-        color: $transparencia;
-    }
-  }
-  .category-habitatge {
-    background: $habitatge;
-    border-color: $habitatge;
-
-    &:hover {
-        color: $habitatge;
+        color: $hidriques;
     }
   }
   .category-medi-ambient {
@@ -117,36 +109,20 @@ export default {
         color: $medi-ambient;
     }
   }
-  .category-hisenda {
-    background: $hisenda;
-    border-color: $hisenda;
+  .category-drets-socials {
+    background: $drets-socials;
+    border-color: $drets-socials;
 
     &:hover {
-        color: $hisenda;
+        color: $drets-socials;
     }
   }
-  .category-admin-publica {
-    background: $admin-publica;
-    border-color: $admin-publica;
+  .category-ap7 {
+    background: $ap7;
+    border-color: $ap7;
 
     &:hover {
-        color: $admin-publica;
-    }
-  }
-  .category-justicia {
-    background: $justicia;
-    border-color: $justicia;
-
-    &:hover {
-        color: $justicia;
-    }
-  }
-  .category-comunicacio {
-    background: $comunicacio;
-    border-color: $comunicacio;
-
-    &:hover {
-        color: $comunicacio;
+        color: $ap7;
     }
   }
 
